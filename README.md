@@ -25,10 +25,5 @@ I founded these things though my analysis
 - garph concludes that offline order recieved lower ratigns & online order recieved higher ratings.
 - It concludes that dinning restaurants primarily accept offline orders, whereas cafes primarily recieve online orders. This suggests that clients preferred orders in person at restaurants, but prefer online ordering at cafe's.
 
-**4. Acknowledgments:**
+- Libraries & Languages used --- Python, Jupyter notebook, numpy, pandas, seaborn, matplotlib
 
-- Libraries used --- numpy, pandas, seaborn, matplotlib
-
-**5. Contact Information:**
-
-- mail - prakharsingh7014@gmail.com
